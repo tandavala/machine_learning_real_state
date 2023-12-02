@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1701499981768
+current_stage: None
+description: null
+last_updated_timestamp: 1701499981768
+name: support_vector_regression_model
+run_id: 08c9f954adf746d09110d1bd337e311b
+run_link: null
+source: /Users/tandavala/Documents/Trabalho/projecto_paralelo/modelo_preditivo_preco_residenciais/backend/file/140928785281970000/08c9f954adf746d09110d1bd337e311b/artifacts/model
+status: READY
+status_message: null
+storage_location: /Users/tandavala/Documents/Trabalho/projecto_paralelo/modelo_preditivo_preco_residenciais/backend/file/140928785281970000/08c9f954adf746d09110d1bd337e311b/artifacts/model
+user_id: null
+version: 2

@@ -1,0 +1,15 @@
+artifact_uri: /Users/tandavala/Documents/Trabalho/projecto_paralelo/modelo_preditivo_preco_residenciais/backend/file/140928785281970000/57a8b55fcbb24b55bc3b15be65790a82/artifacts
+end_time: 1701500065798
+entry_point_name: ''
+experiment_id: '140928785281970000'
+lifecycle_stage: active
+run_id: 57a8b55fcbb24b55bc3b15be65790a82
+run_name: support_vector_regression
+run_uuid: 57a8b55fcbb24b55bc3b15be65790a82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701500058610
+status: 3
+tags: []
+user_id: tandavala
